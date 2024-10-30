@@ -1,4 +1,4 @@
-## Hi there 👋
+
 ## Hi there 👋 I'm Prit Dhanani
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=preetdhanani&label=Profile%20views&color=0e75b6&style=flat" alt="harshalk612" /> </p>
