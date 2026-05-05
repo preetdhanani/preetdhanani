@@ -8,9 +8,8 @@ I work on LLMs - fine-tuning them, aligning them with RLHF, wrapping them in age
 
 ### What I'm working on
 
-- **Master's Thesis** - Agentic AI systems + RLHF-aligned LLMs
 - **At Infinite Mind** - On-premise RLHF pipelines (privacy-first, no external APIs) and production RAG systems with hybrid retrieval, reranking, and real-time monitoring for enterprise clients
-- **Exploring** - Multi-agent orchestration, LLM evaluation frameworks, reasoning in constrained environments
+- **Exploring** - Multi-agent orchestration(Architech), LLM evaluation frameworks, reasoning in constrained environments
 
 ---
 
@@ -40,7 +39,7 @@ Cloud           →  AWS (SageMaker, Bedrock, Lambda, EC2), Azure OpenAI, Azure 
 
 ### Background
 
-1 year as an AI Engineer in India (Woxxin) - owned AI products end-to-end, client-facing, hands-on Azure.  
+1 year as an AI Engineer in India (Woxxin Technolies Ltd) - owned AI products end-to-end, client-facing, hands-on Azure.  
 B.E. IT from SCET Surat → M.Sc. AI & Robotics at Hochschule Hof, Germany.  
 AWS Certified AI Practitioner. 2nd place at ML Hackathon 2.0.
 
