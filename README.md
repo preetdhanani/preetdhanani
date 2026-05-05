@@ -1,128 +1,52 @@
-# Prit Dhanani — AI Engineer
+# Prit Dhanani
 
-**M.Sc. AI & Robotics · Hochschule Hof, Germany**  
-Generative AI Working Student at Infinite Mind GmbH · Former AI Engineer at Woxxin Solution  
-Based in Hof, Germany · Open to relocation · Seeking full-time AI/ML Engineer roles (2025/2026)
+AI Engineer focused on building things that actually work in production.
 
-[LinkedIn](https://www.linkedin.com/in/prit-dhanani/) · [HuggingFace](https://huggingface.co/Prit84697) · [Email](mailto:Dhananipreet101@gmail.com)
+I work on LLMs — fine-tuning them, aligning them with RLHF, wrapping them in agentic pipelines, and deploying them where latency and privacy constraints are real. Currently doing my Master's thesis on agentic AI at Hochschule Hof (Germany) while working as a GenAI engineer at Infinite Mind GmbH.
 
 ---
 
-## About
+### What I'm working on
 
-I build and ship AI systems end-to-end — from fine-tuning LLMs with RLHF to deploying production-grade RAG pipelines with real-time monitoring. My work sits at the intersection of LLM engineering, agentic AI, and MLOps, with hands-on experience across the full stack: data, model, API, cloud.
-
-Currently completing my Master's thesis in **Agentic AI and RLHF for LLMs** at Hochschule Hof. Simultaneously working as a GenAI Engineer at Infinite Mind GmbH, where I independently own client requirements, design solutions, and deliver AI-powered automation systems.
-
-I care about building things that actually work in production — with proper monitoring, evaluation, and maintainability — not just notebooks.
+- **Master's Thesis** — Agentic AI systems + RLHF-aligned LLMs
+- **At Infinite Mind** — On-premise RLHF pipelines (privacy-first, no external APIs) and production RAG systems with hybrid retrieval, reranking, and real-time monitoring for enterprise clients
+- **Exploring** — Multi-agent orchestration, LLM evaluation frameworks, reasoning in constrained environments
 
 ---
 
-## Experience
+### A few things I've built
 
-**Generative AI Engineer (Working Student) · Infinite Mind GmbH, Munich**  
-*September 2025 – Present*
+**[AskToYaana](https://github.com/preetdhanani/AskToYaana)** — Fine-tuned LLaMA 3.3 for domain-specific product recommendations. LSTM intent classifier, Django backend, GROQ inference.
 
-- Design and deploy end-to-end GenAI solutions for enterprise clients, including RAG pipelines, LLM-powered chatbots, and internal business automation systems
-- Independently manage the full delivery cycle: requirement gathering, architecture design, implementation, and handover
-- Build on-premise RLHF fine-tuning pipelines addressing German data privacy requirements
-- Implement production-grade RAG systems with hybrid retrieval, reranking, vector DB integration, and real-time monitoring
+**[LlamaIndex QA Engine](https://github.com/preetdhanani/Llamaindex-Quest-Semantic-Crawl-to-Answer-Engine-main)** — Hybrid doc Q&A combining BM25 + FAISS dense retrieval, LangChain agent orchestration, GROQ for real-time answers.
 
-**AI Engineer · Woxxin Solution Pvt. Ltd, India**  
-*October 2023 – July 2024*
+**[MLOps Pipeline](https://github.com/preetdhanani/MLOps)** — End-to-end MLOps with MLflow, Docker, GitHub Actions, DagsHub. Cut deployment time by 40%.
 
-- Owned end-to-end AI product development with sole responsibility for client-facing AI applications
-- Fine-tuned and customized LLMs for domain-specific chatbot deployments; hands-on Azure AI exposure
-- Built and productionized ML models using TensorFlow and scikit-learn with CI/CD pipelines
-- Designed data pipelines for ingestion, cleaning, preprocessing, and model monitoring in production
+**BERT + LSTM Sentiment Engine** — Hybrid NLP pipeline, served as a FastAPI microservice for customer feedback classification.
 
 ---
 
-## Education
+### Stack I reach for
 
-**M.Sc. Artificial Intelligence and Robotics · Hochschule Hof, Germany**  
-*March 2025 – Ongoing*  
-Applied Deep Learning · Generative AI · Intelligent Robotics · Advanced AI Applications · Industry 4.0 / Data Management · Predictive Maintenance
-
-**B.E. Information Technology (GPA 1.8) · SCET – GTU, India**  
-*2019 – 2023*  
-AI · Pattern Recognition · Software Engineering · Algorithms · Data Structures · Probability & Statistics
-
----
-
-## Selected Projects
-
-**On-Premise RLHF Fine-Tuning Pipeline**  
-End-to-end RLHF workflow for fine-tuning LLMs in privacy-sensitive environments (compliant with German data regulations). Covers reward modeling, PPO training loop, evaluation, and deployment — no external API calls.  
-`PyTorch · Transformers · TRL · Docker · on-premise GPU`
-
-**Production RAG Platform with Reranking and Monitoring**  
-Multi-tenant RAG system with hybrid retrieval (BM25 + dense vectors), cross-encoder reranking, latest-generation vector DB, and a real-time monitoring layer for retrieval quality and answer faithfulness.  
-`LlamaIndex · LangChain · FAISS · FastAPI · Docker · MLflow`
-
-**[AskToYaana – Fine-Tuned LLM Recommendation Engine](https://github.com/preetdhanani/AskToYaana)**  
-Fine-tuned LLaMA 3.3 on domain-specific product data for a personalized beauty product recommender. LSTM-based intent classification, Django + PostgreSQL backend, GROQ inference for low-latency serving. 61% accuracy on custom evaluation set.  
-`LLaMA 3.3 · GROQ · Django · PostgreSQL · LSTM · Python`
-
-**[LlamaIndex QA Engine – Semantic Document Q&A](https://github.com/preetdhanani/Llamaindex-Quest-Semantic-Crawl-to-Answer-Engine-main)**  
-Hybrid QA system combining BM25 sparse retrieval and FAISS dense vector search over crawled technical documentation. LangChain agents orchestrate retrieval and reasoning; GROQ for real-time inference.  
-`LlamaIndex · LangChain · FAISS · BM25 · HuggingFace · GROQ · BeautifulSoup`
-
-**[Beverage Quality Analysis – MLOps Pipeline](https://github.com/preetdhanani/MLOps)**  
-Production-ready MLOps workflow with data versioning, modular training, automated evaluation, and CI/CD deployment. Reduced deployment time by 40% via MLflow + Docker + GitHub Actions + DagsHub.  
-`Python · MLflow · Docker · GitHub Actions · Flask · DagsHub · Scikit-learn`
-
-**Custom Sentiment Analysis – BERT + LSTM Hybrid**  
-Hybrid NLP pipeline combining pre-trained BERT with a custom domain-trained LSTM. Served as a FastAPI backend service for customer feedback classification.  
-`TensorFlow · HuggingFace Transformers · LSTM · FastAPI · Docker`
+```
+LLMs / GenAI    →  HuggingFace, LangChain, LlamaIndex, Ollama, CrewAI, GROQ
+Fine-tuning     →  PyTorch, TRL, RLHF (PPO + reward modeling), LoRA / QLoRA
+RAG             →  FAISS, BM25, vector DBs, rerankers, real-time eval
+MLOps           →  MLflow, W&B, Docker, Kubernetes, GitHub Actions, FastAPI
+Cloud           →  AWS (SageMaker, Bedrock, Lambda, EC2), Azure OpenAI, Azure ML
+```
 
 ---
 
-## Skills
+### Background
 
-**LLM & GenAI**  
-LLM Fine-Tuning · RLHF (PPO, Reward Modeling) · RAG (Hybrid Retrieval, Reranking) · Prompt Engineering · LangChain · LlamaIndex · HuggingFace · Ollama · CrewAI · Agentic Pipelines · Knowledge Graphs
-
-**ML & Deep Learning**  
-PyTorch · TensorFlow · Keras · Scikit-learn · Computer Vision · NLP (NER, Sentiment, Summarization) · BERT · LSTM · VAE
-
-**MLOps & Production**  
-MLflow · Weights & Biases · Docker · Kubernetes · FastAPI · Flask · CI/CD (GitHub Actions, GitLab CI) · Apache Kafka · Apache Airflow · Apache Spark
-
-**Cloud**  
-AWS (S3, EC2, ECR, SageMaker, Bedrock, Lambda) · Azure ML · Azure OpenAI · RAG on Azure
-
-**Data**  
-SQL · NoSQL · PostgreSQL · Vector Databases · Pandas · NumPy · Matplotlib · Plotly · Power BI
+1 year as an AI Engineer in India (Woxxin) — owned AI products end-to-end, client-facing, hands-on Azure.  
+B.E. IT from SCET Surat → M.Sc. AI & Robotics at Hochschule Hof, Germany.  
+AWS Certified AI Practitioner. 2nd place at ML Hackathon 2.0.
 
 ---
 
-## Research
+### Open to
 
-- **M.Sc. Thesis (ongoing):** Agentic AI systems with RLHF-aligned LLMs
-- Systematic review of Knowledge Graph Embeddings: TransE → KG-BERT → HypHKGE
-- Implemented Auto-Encoding Variational Bayes (AEVB) from paper to prototype
-- Siemens Amberg Plant edge AI analysis: cloud-edge LLM integration for smart manufacturing
-- Contributed to research on heuristical 2D cloth warping simulation
-
----
-
-## Certifications
-
-- AWS Certified AI Practitioner
-- Building Cloud-Native and Multicloud Applications (IBM)
-- Machine Learning with Python
-- Python for Data Science
-
----
-
-## Recognition
-
-- 2nd Place, Machine Learning Hackathon 2.0 (2023)
-- MYSY Scholarship for academic excellence (2019–2023)
-
----
-
-## Languages
-
-English — Fluent · German — B1+ (actively improving) · Hindi & Gujarati — Native
+Full-time AI/ML Engineer roles in Germany or remote — available after thesis.  
+**Dhananipreet101@gmail.com** · [LinkedIn](https://www.linkedin.com/in/prit-dhanani/) · [HuggingFace](https://huggingface.co/Prit84697)
