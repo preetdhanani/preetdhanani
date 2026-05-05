@@ -9,7 +9,7 @@ I work on LLMs - fine-tuning them, aligning them with RLHF, wrapping them in age
 ### What I'm working on
 
 - **At Infinite Mind** - On-premise RLHF pipelines (privacy-first, no external APIs) and production RAG systems with hybrid retrieval, reranking, and real-time monitoring for enterprise clients
-- **Exploring** - Multi-agent orchestration(Architech), LLM evaluation frameworks, reasoning in constrained environments
+- **Exploring** - Multi-agent orchestration(Architect), LLM evaluation frameworks, reasoning in constrained environments
 
 ---
 
