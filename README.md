@@ -48,5 +48,5 @@ AWS Certified AI Practitioner. 2nd place at ML Hackathon 2.0.
 
 ### Open to
 
-Full-time AI/ML Engineer roles in Germany or remote — available after thesis.  
+Full-time AI/ML Engineer roles in Germany or remote.  
 **Dhananipreet101@gmail.com** · [LinkedIn](https://www.linkedin.com/in/prit-dhanani/) · [HuggingFace](https://huggingface.co/Prit84697)
