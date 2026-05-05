@@ -2,27 +2,27 @@
 
 AI Engineer focused on building things that actually work in production.
 
-I work on LLMs — fine-tuning them, aligning them with RLHF, wrapping them in agentic pipelines, and deploying them where latency and privacy constraints are real. Currently doing my Master's thesis on agentic AI at Hochschule Hof (Germany) while working as a GenAI engineer at Infinite Mind GmbH.
+I work on LLMs - fine-tuning them, aligning them with RLHF, wrapping them in agentic pipelines, and deploying them where latency and privacy constraints are real. Currently doing my Master's thesis on agentic AI at Hochschule Hof (Germany) while working as a GenAI engineer at Infinite Mind GmbH.
 
 ---
 
 ### What I'm working on
 
-- **Master's Thesis** — Agentic AI systems + RLHF-aligned LLMs
-- **At Infinite Mind** — On-premise RLHF pipelines (privacy-first, no external APIs) and production RAG systems with hybrid retrieval, reranking, and real-time monitoring for enterprise clients
-- **Exploring** — Multi-agent orchestration, LLM evaluation frameworks, reasoning in constrained environments
+- **Master's Thesis** - Agentic AI systems + RLHF-aligned LLMs
+- **At Infinite Mind** - On-premise RLHF pipelines (privacy-first, no external APIs) and production RAG systems with hybrid retrieval, reranking, and real-time monitoring for enterprise clients
+- **Exploring** - Multi-agent orchestration, LLM evaluation frameworks, reasoning in constrained environments
 
 ---
 
 ### A few things I've built
 
-**[AskToYaana](https://github.com/preetdhanani/AskToYaana)** — Fine-tuned LLaMA 3.3 for domain-specific product recommendations. LSTM intent classifier, Django backend, GROQ inference.
+**[AskToYaana](https://github.com/preetdhanani/AskToYaana)** - Fine-tuned LLaMA 3.3 for domain-specific product recommendations. LSTM intent classifier, Django backend, GROQ inference.
 
-**[LlamaIndex QA Engine](https://github.com/preetdhanani/Llamaindex-Quest-Semantic-Crawl-to-Answer-Engine-main)** — Hybrid doc Q&A combining BM25 + FAISS dense retrieval, LangChain agent orchestration, GROQ for real-time answers.
+**[LlamaIndex QA Engine](https://github.com/preetdhanani/Llamaindex-Quest-Semantic-Crawl-to-Answer-Engine-main)** - Hybrid doc Q&A combining BM25 + FAISS dense retrieval, LangChain agent orchestration, GROQ for real-time answers.
 
-**[MLOps Pipeline](https://github.com/preetdhanani/MLOps)** — End-to-end MLOps with MLflow, Docker, GitHub Actions, DagsHub. Cut deployment time by 40%.
+**[MLOps Pipeline](https://github.com/preetdhanani/MLOps)** - End-to-end MLOps with MLflow, Docker, GitHub Actions, DagsHub. Cut deployment time by 40%.
 
-**BERT + LSTM Sentiment Engine** — Hybrid NLP pipeline, served as a FastAPI microservice for customer feedback classification.
+**BERT + LSTM Sentiment Engine** - Hybrid NLP pipeline, served as a FastAPI microservice for customer feedback classification.
 
 ---
 
@@ -40,7 +40,7 @@ Cloud           →  AWS (SageMaker, Bedrock, Lambda, EC2), Azure OpenAI, Azure 
 
 ### Background
 
-1 year as an AI Engineer in India (Woxxin) — owned AI products end-to-end, client-facing, hands-on Azure.  
+1 year as an AI Engineer in India (Woxxin) - owned AI products end-to-end, client-facing, hands-on Azure.  
 B.E. IT from SCET Surat → M.Sc. AI & Robotics at Hochschule Hof, Germany.  
 AWS Certified AI Practitioner. 2nd place at ML Hackathon 2.0.
 
