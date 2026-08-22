@@ -2,7 +2,7 @@
 
 AI Engineer focused on building things that actually work in production.
 
-I work on LLMs - fine-tuning them, aligning them with RLHF, wrapping them in agentic pipelines, and deploying them where latency and privacy constraints are real. Currently doing my Master's thesis on agentic AI at Hochschule Hof (Germany) while working as a GenAI engineer at Infinite Mind GmbH.
+I work on LLMs - fine-tuning them, aligning them with RLHF, wrapping them in agentic pipelines, and deploying them where latency and privacy constraints are real.
 
 ---
 
