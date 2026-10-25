@@ -84,8 +84,4 @@ One year as an AI Engineer at Woxxin Solution Pvt. Ltd (India), owning client-fa
 B.E. Information Technology, SCET Surat → M.Sc. AI & Robotics, Hochschule Hof, Germany.
 AWS Certified AI Practitioner · 2nd place, ML Hackathon 2.0.
 
-### Open to
-
-Master's thesis positions in Germany from October 2026, in LLM alignment, applied AI or ML infrastructure. Flexible for a Sommersemester 2027 start.
-
 German B2, English fluent.
